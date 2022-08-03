@@ -30,7 +30,7 @@ namespace WebProject
             //        myReader = myCommand.ExecuteReader();
             //        table.Load(myReader);
             //        myReader.Close();
-            //        myCon.Close(); //closing
+            //        myCon.Close(); //closing the connection
             //    }
             //}
 
